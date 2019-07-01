@@ -10,6 +10,7 @@ namespace AuthenticationSample
 {
     public partial class Login : System.Web.UI.Page
     {
+        // added comments
         protected void Page_Load(object sender, EventArgs e)
         {
 
